@@ -1,8 +1,8 @@
-# 环境空气质量评价挑战赛文件说明
+# 2021科大讯飞开发者大赛-环境空气质量评价挑战赛
 
 * 比赛链接http://challenge.xfyun.cn/topic/info?type=air-quality
 
-* 初赛成绩0.00413第8，复赛1.08435第6
+* 初赛成绩0.00413第8，复赛成绩1.08435第6
 
 * 运行方式：先运行Sub00_IPRC_Trn159_Val177.ipynb，再运行Sub01_FS_AQI_Val2.848.ipynb，运行路径下的sub文件夹中生成sub.csv文件即为结果文件。
 
